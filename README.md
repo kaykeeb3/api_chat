@@ -1,6 +1,6 @@
 <h1 align="center">API</h1>
 
-<p align="center">Após executar o código, a API estará disponível em http://localhost:8080/chat. Você pode enviar uma requisição POST para esse endpoint com um objeto JSON contendo a pergunta no corpo da requisição, conforme o seguinte exemplo. A API irá responder com um objeto JSON contendo a resposta gerada pela API do
+<p align="center">Após executar o código, a API estará disponível em <strong>http://localhost:8080/api.</strong> Você pode enviar uma requisição POST para esse endpoint com um objeto JSON contendo a pergunta no corpo da requisição, conforme o seguinte exemplo. A API irá responder com um objeto JSON contendo a resposta gerada pela API do
 
 
 
